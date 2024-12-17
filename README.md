@@ -3,7 +3,7 @@
 ## [沈超敏](https://scholar.google.com/citations?user=axtR_4QAAAAJ&hl=en&oi=ao)
 
 ## Students
-[邓凌峰 (2025-2028)](https://github.com/imdlf)
+[邓凌峰 (2025-2028)](https://github.com/lf-deng)
 
 [陈叶飞 (2024-2027)](https://github.com/juruobenruo)  
 
